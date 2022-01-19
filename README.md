@@ -1,5 +1,5 @@
 # Python Data Analysis
-財團法人人工智慧科技基金會「*Python Basic*」系列的線上課程程式碼，本程式碼包含 *快速上手*、*Data Type*、*Container*、*Control Flow*、*Function*、*Class* 以及 *Module*，課程程式碼依照不同主題放置在不同的資料夾中供學習與參考。
+財團法人人工智慧科技基金會「*Python Data Analysis*」系列的線上課程程式碼，本程式碼包含 *快速上手*、*Data Type*、*Container*、*Control Flow*、*Function*、*Class* 以及 *Module*，課程程式碼依照不同主題放置在不同的資料夾中供學習與參考。
 
 教學影片可於[財團法人人工智慧科技基金會](https://www.youtube.com/channel/UCMQ4IsHxtccFENDvRsdS1oA "財團法人人工智慧科技基金會")*YouTube*頻道上免費觀看。
 
